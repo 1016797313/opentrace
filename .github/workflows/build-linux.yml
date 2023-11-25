@@ -55,4 +55,3 @@ jobs:
       with:
         name: ${{ matrix.runtime }}.tar.gz
         path: ./bin/Gtk/Release/net8.0/${{ matrix.runtime }}.tar.gz
-
